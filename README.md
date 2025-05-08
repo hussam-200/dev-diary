@@ -9,7 +9,7 @@ I hope you're doing well.
 
 
 
-I’m **24** years old, and I’m passionate about learning and building real-world projects. At the moment, I’m actively studying **JavaScript**  as part of my journey to become a **full-stack developer**.<br> I’m excited to deepen my skills through this course and apply what I learn to future projects.
+I’m **24 years old**, and I’m passionate about learning and building real-world projects. At the moment, I’m actively studying **JavaScript**  as part of my journey to become a **full-stack developer**.<br> I’m excited to deepen my skills through this course and apply what I learn to future projects.
 
 
 
