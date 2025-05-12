@@ -1,9 +1,10 @@
 # dev-diary
 ## Self-Introduction – Hussam Ibrahim
 
-#### Dear Doctor,
 
-## About My Self 
+
+## About My Self
+#### Dear Doctor, 
 I hope you're doing well.
 
 <p>My name is Hussam Ibrahim, I’m a student in the Software Engineering program.<br> I’m currently taking your course, and I wanted to briefly introduce myself.</p>
