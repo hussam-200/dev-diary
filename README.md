@@ -1,6 +1,4 @@
 # dev-diary
-## Self-Introduction – Hussam Ibrahim
-
 
 
 ## About My Self
