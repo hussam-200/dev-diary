@@ -27,24 +27,24 @@ I am also acquiring practical interdisciplinary collaboration, understanding sof
 ---
 
 ## Terminal Command Cheat Sheet
-I used basic command-line tools to manage my project files:
+`I used basic command-line tools to manage my project files:`
 
-- `pwd` – to check my current location.
-- `mkdir` – to create folders.
-- `ls` – to list the contents.
-- `cd` – to move between folders.
-- `touch` – to create new files.
+1. `pwd` – to check my current location.
+2. `mkdir` – to create folders.
+3. `ls` – to list the contents.
+4. `cd` – to move between folders.
+5. `touch` – to create new files.
 
 These commands helped me organize my project efficiently using the terminal.
 
 ---
 
 #### Git and Version Control
-I used **Git** commands to upload my project to GitHub, specifically:
+I used ***Git*** commands to upload my project to GitHub, specifically:
 
-- `git add` – to stage files.
-- `git commit` – to commit changes.
-- `git push` – to upload my changes to GitHub.
+1. `git add` – to stage files.
+2. `git commit` – to commit changes.
+3. `git push` – to upload my changes to GitHub.
 
 ---
 
@@ -60,4 +60,4 @@ _Screenshot showing how markdown is formatted._
 ---
 
 Best regards,  
-**_Hussam Ibrahim_**
+***Hussam Ibrahim***
