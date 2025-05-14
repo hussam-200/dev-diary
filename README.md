@@ -13,7 +13,7 @@ I’m ***24 years old***, and I’m passionate about learning and building real-
 ---
 
 ## Good Developer Mindset
-<p>In the pursuit of becoming a <strong>better software developer</strong>, I am learning to adopt certain mindsets and habits that extend beyond simply coding. These include:</p>
+<p>In the pursuit of becoming a <strong>*better software developer*</strong>, I am learning to adopt certain mindsets and habits that extend beyond simply coding. These include:</p>
 
 >- Tackling learning as a **lifelong commitment**.
 >- Decomposing large problems into **achievable subtasks**.
@@ -55,6 +55,7 @@ _Screenshot of the project._
 
 #### Markdown Formatting Example
 ![This is the markdown formatting](Screenshot02.png)  
+![This is the markdown formatting](Screenshot03.png)  
 _Screenshot showing how markdown is formatted._
 
 ---
