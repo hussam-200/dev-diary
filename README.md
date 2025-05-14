@@ -15,12 +15,12 @@ I’m ***24 years old***, and I’m passionate about learning and building real-
 ## Good Developer Mindset
 <p>In the pursuit of becoming a <strong>better software developer</strong>, I am learning to adopt certain mindsets and habits that extend beyond simply coding. These include:</p>
 
-- Tackling learning as a **lifelong commitment**.
-- Decomposing large problems into **achievable subtasks**.
-- Reasoning like a **detective** when debugging.
-- Cultivating a **growth mindset**.
-- Focusing on enhancing **user value** through simple, easy-to-maintain, and thoughtful logic.
-- Making **intelligent compromises** during initial construction, considering long-term maintenance.
+>- Tackling learning as a **lifelong commitment**.
+>- Decomposing large problems into **achievable subtasks**.
+>- Reasoning like a **detective** when debugging.
+>- Cultivating a **growth mindset**.
+>- Focusing on enhancing **user value** through simple, easy-to-maintain, and thoughtful logic.
+>- Making **intelligent compromises** during initial construction, considering long-term maintenance.
 
 I am also acquiring practical interdisciplinary collaboration, understanding software inner workings, and automating repetitive tasks. Most importantly, I am learning that **progress over perfection** is the key when striving for great software. Iterative development, combined with user feedback, strengthens the quality of the software.
 
