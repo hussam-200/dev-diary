@@ -56,7 +56,7 @@ _Screenshot of the project._
 #### Markdown Formatting Example
 ![This is the markdown formatting](Screenshot02.png)  
 ![This is the markdown formatting](Screenshot03.png)  
-_Screenshot showing how markdown is formatted._
+*Screenshot showing how markdown is formatted.*
 
 ---
 
